@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "431cb630bc91105a80386de9adf87e64",
+    "revision": "c0248fbc984a0b13ddb3f914db4ebfb1",
     "url": "/NoteKeeper.github.io/index.html"
   },
   {
